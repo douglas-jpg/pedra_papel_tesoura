@@ -1,0 +1,14 @@
+REGRAS DO JOGO:
+Pedra quebra tesoura
+Papel cobre pedra
+Tesoura corta papel
+
+Voce tera 3 vidas para jogar ️
+Cada vez que voce perde uma rodada
+Automaticamente perde uma vida
+Ao final de 3 vidas perdidas o seu jogo acaba
+
+PONTUAÇÃO:
+Cada rodada ganha voce recebe 1 ponto
+Ao final de suas vidas os seus pontos
+Ficam salvo nos arquivos de pontuação

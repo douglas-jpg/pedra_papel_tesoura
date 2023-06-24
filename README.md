@@ -1,5 +1,5 @@
 # Jogo pedra papel tesoura
-Jogo simples de pedra papel tesoura, tambem conhecido como jokempo com um menu
+Jogo simples de pedra papel tesoura, tambem conhecido como jokenpô com um menu
 
 🪨 ✂️ 📜
 
